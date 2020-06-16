@@ -1,0 +1,13 @@
+{
+    "errno": 0,
+    "msg": "没有数据",
+    "data":
+    {
+        "id": "1",
+        "username": "abcasdj",
+        "radio": "female",
+        "password": "abc123",
+        "phonenum": "12345678912",
+        "descripe": "123"
+    }
+}
